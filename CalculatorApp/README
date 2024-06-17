@@ -1,0 +1,8 @@
+
+Om wortels, sinus, cosinus, tangens en logaritme te verwerken, breid de parser klasse uit met sqrt, sin, cos in het Dictionary.
+
+ Breid ook de Evaluete klasse uit met sqrt, sin, cos. Dit kan binnen een if statment om te controleren of de token overeenkomt met deze tokenwaarde en 
+ 
+ gebruik dan een Math klasse voor de berekening, bijvoorbeeld Math.Sin, Math.Cos, enz.
+
+Voeg ook een unittest toe voor de nieuwe tokenwaarde.

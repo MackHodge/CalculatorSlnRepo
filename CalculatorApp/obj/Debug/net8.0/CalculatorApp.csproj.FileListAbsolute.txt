@@ -1,0 +1,14 @@
+/Users/mackhodge/CalculatorSln/CalculatorApp/bin/Debug/net8.0/CalculatorApp
+/Users/mackhodge/CalculatorSln/CalculatorApp/bin/Debug/net8.0/CalculatorApp.deps.json
+/Users/mackhodge/CalculatorSln/CalculatorApp/bin/Debug/net8.0/CalculatorApp.runtimeconfig.json
+/Users/mackhodge/CalculatorSln/CalculatorApp/bin/Debug/net8.0/CalculatorApp.dll
+/Users/mackhodge/CalculatorSln/CalculatorApp/bin/Debug/net8.0/CalculatorApp.pdb
+/Users/mackhodge/CalculatorSln/CalculatorApp/obj/Debug/net8.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mackhodge/CalculatorSln/CalculatorApp/obj/Debug/net8.0/CalculatorApp.AssemblyInfoInputs.cache
+/Users/mackhodge/CalculatorSln/CalculatorApp/obj/Debug/net8.0/CalculatorApp.AssemblyInfo.cs
+/Users/mackhodge/CalculatorSln/CalculatorApp/obj/Debug/net8.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/mackhodge/CalculatorSln/CalculatorApp/obj/Debug/net8.0/CalculatorApp.dll
+/Users/mackhodge/CalculatorSln/CalculatorApp/obj/Debug/net8.0/refint/CalculatorApp.dll
+/Users/mackhodge/CalculatorSln/CalculatorApp/obj/Debug/net8.0/CalculatorApp.pdb
+/Users/mackhodge/CalculatorSln/CalculatorApp/obj/Debug/net8.0/CalculatorApp.genruntimeconfig.cache
+/Users/mackhodge/CalculatorSln/CalculatorApp/obj/Debug/net8.0/ref/CalculatorApp.dll
